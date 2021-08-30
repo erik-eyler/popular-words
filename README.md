@@ -63,23 +63,23 @@ Link to the wireframe <https://wireframe.cc/pro/pp/9eebaf8bb467598>
 
 ## MVP
 
-⋅⋅\*A date range search bar
+- A date range search bar
 
-⋅⋅\*A word search bar
+- A word search bar
 
-⋅⋅\*Output box that gives the most popular words for the user generated date range from the Guardian's archive with the number of times used
+- Output box that gives the most popular words for the user generated date range from the Guardian's archive with the number of times used
 
-⋅⋅\*Minimal HTML and CSS
+- Minimal HTML and CSS
 
 ---
 
 ## Post-MVP
 
-⋅⋅\*Word bubble stylized output box for the words generated that makes the words bigger based on how often they were used
+- Word bubble stylized output box for the words generated that makes the words bigger based on how often they were used
 
-⋅⋅\*Replicating the entire search bar + output box to allow the user to compare multiple searches across the keyword and date range search bars.
+- Replicating the entire search bar + output box to allow the user to compare multiple searches across the keyword and date range search bars.
 
-⋅⋅\*More stylized CSS
+- More stylized CSS
 
 ---
 
