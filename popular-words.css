@@ -1,0 +1,19 @@
+header,
+footer,
+nav,
+article {
+  display: block;
+}
+body {
+  margin: 0;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  display: grid;
+
+  grid-template-columns: 1fr 1fr 1fr;
+}
