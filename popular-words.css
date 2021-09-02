@@ -49,5 +49,7 @@ body {
   grid-row: 2 / 4;
   grid-column: 1 / 5;
 }
-
+.content-small {
+  grid-column: 2 / 4;
+}
 /* MAY WANT TO USE GRID METHOD FOR THE CSS WITHIN THE LARGE-CONTENT DIV, UNLESS YOU FIGURE OUT ANOTHER WAY TO GET THEM TO FIT NICELY */
