@@ -4,20 +4,42 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script defer src="popular-words.js"></script>
   <link rel="stylesheet" href="popular-words.css">
   <title>Popular Words</title>
 </head>
 <body>
   <div class="container">
     <div class="header">Header</div>
-    <div class="content-large">Function goes here
-      <div id="searchWrapper">
+    <div class="wrapperFunction">
+      <div class="content-large">
         <input
           type="text"
           name="searchBar"
           id="searchBar"
           placeholder="search for a keyword (example: Europe)"
         />
+        <div class="input-from-date">From Date
+          <input
+          type="date"
+          name="from-date"
+          id="from-date"
+          placeholder="yyyy-mm-dd"
+        />
+        </div>
+        <div class="input-to-date">To Date
+          <input
+            type="date"
+            name="to-date"
+            id="to-date"
+            placeholder="yyyy-mm-dd"
+          />
+        </div>
+        <button id="search">Search</button>
+        <div class="output-box">Output Box
+          <ol class="words-list"></ol>
+        </div>
       </div>
     </div>
     <div class="content-small">Side bar that will disappear on phones</div>
