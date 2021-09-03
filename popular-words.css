@@ -6,7 +6,7 @@ body {
   height: 100vh;
   font-family: "Tahoma", sans-serif;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
   display: grid;
 
   grid-template-columns: 1fr 1fr 1fr;
@@ -22,6 +22,8 @@ body {
 }
 .header {
   grid-column: 1 / 4;
+  color: rgb(51, 145, 223);
+  background-color: rgb(240, 208, 167);
 }
 .content-large {
   grid-row: 2 / 3;
@@ -29,9 +31,14 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 100px 1fr 100px;
+  background-color: white;
+}
+.wrapperFunction {
+  background-color: cornflowerblue;
 }
 .footer {
   grid-column: 1 / span 3;
+  background-color: rgb(240, 208, 167);
 }
 #searchBar {
   grid-column: 1 / 2;
@@ -51,5 +58,10 @@ body {
 }
 .content-small {
   grid-column: 2 / 4;
+  background-color: rgb(51, 145, 223);
 }
-/* MAY WANT TO USE GRID METHOD FOR THE CSS WITHIN THE LARGE-CONTENT DIV, UNLESS YOU FIGURE OUT ANOTHER WAY TO GET THEM TO FIT NICELY */
+/* @media (max-device-width: 700px) {
+  .content-small {
+    display: none;
+  }
+} */
