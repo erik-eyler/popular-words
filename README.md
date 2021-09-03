@@ -87,11 +87,11 @@ Link to the wireframe <https://wireframe.cc/pro/pp/9eebaf8bb467598>
 
 | Day       |                                                          Goals                                                           |     Status |
 | --------- | :----------------------------------------------------------------------------------------------------------------------: | ---------: |
-| Monday    |              Create basic HTML and CSS framework. Learn how to link the Guardian API properly. Pseudocode.               | Incomplete |
-| Tuesday   |                 Finish Pseudocode. Build flexbox framework if not finished. Start building JS functions.                 | Incomplete |
-| Wednesday | Finish out all JS functions, begin testing. Add in background image and any CSS finishes. Begin Post-MVP if time allows. | Incomplete |
+| Monday    |              Create basic HTML and CSS framework. Learn how to link the Guardian API properly. Pseudocode.               |   Complete |
+| Tuesday   |                 Finish Pseudocode. Build flexbox framework if not finished. Start building JS functions.                 |   Complete |
+| Wednesday | Finish out all JS functions, begin testing. Add in background image and any CSS finishes. Begin Post-MVP if time allows. |   Complete |
 | Thursday  |                                      Work on Post-MVP Goals. Work on presentation.                                       | Incomplete |
-| Friday    |                                            Rehearse presentation and present.                                            | Incomplete |
+| Friday    |                                            Rehearse presentation and present.                                            |   Complete |
 
 ---
 
@@ -105,15 +105,15 @@ Link - <https://i.ibb.co/RSvkd1p/Screen-Shot-2021-08-29-at-8-24-59-PM.png>
 
 | Component               | Estimated Time | Time Invested | Actual Time |
 | ----------------------- | :------------: | :-----------: | ----------: |
-| HTML & CSS Framework    |    3 hours     |               |             |
-| Guardian API            |    2 hours     |               |             |
-| Pseudocode              |    3 hours     |               |             |
-| Flexbox                 |    3 hours     |               |             |
-| Keyword Search Bar      |    3 hours     |               |             |
-| Date Range Search Bar   |    2 hours     |               |             |
-| Output box              |    3 hours     |               |             |
-| Test JS Functions       |    3 hours     |               |             |
-| CSS Finishes            |    2 hours     |               |             |
-| Multiple search options |    3 hours     |               |             |
-| Word Bubble             |    3 hours     |               |             |
-| Mobile Functionality    |    3 hours     |               |             |
+| HTML & CSS Framework    |    3 hours     |       2       |           2 |
+| Guardian API            |    2 hours     |       4       |           4 |
+| Pseudocode              |    3 hours     |       1       |           1 |
+| Grid                    |    3 hours     |       8       |           8 |
+| Keyword Search Bar      |    3 hours     |       1       |           1 |
+| Date Range Search Bar   |    2 hours     |       1       |           1 |
+| Output box              |    3 hours     |       2       |           2 |
+| Test JS Functions       |    3 hours     |       8       |           8 |
+| CSS Finishes            |    2 hours     |       5       |           5 |
+| Multiple search options |    3 hours     |       0       |           0 |
+| Word Bubble             |    3 hours     |       0       |           0 |
+| Mobile Functionality    |    3 hours     |       1       |           1 |
