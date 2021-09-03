@@ -14,6 +14,8 @@
 
 Popular Words will use the The Guardian's Open Platform API to give the user the most popular words from the headlines of the Guardian for a given time period.
 
+<https://erik-eyler.github.io/popular-words/>
+
 ---
 
 ## API
